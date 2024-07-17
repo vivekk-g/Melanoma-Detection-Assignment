@@ -1,5 +1,5 @@
 # Melanoma Detection Assignment
-> In this assignment, built q multiclass classification model using a custom convolutional neural network in TensorFlow.
+> In this assignment, built a multiclass classification model using a custom convolutional neural network in TensorFlow.
 > A CNN based model which can accurately detect melanoma from the scan images.
 
 
